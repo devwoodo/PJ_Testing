@@ -146,8 +146,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="..\PJ_Testing\byteStream_stream_conv.cpp" />
     <ClCompile Include="..\PJ_Testing\exceptions1.cpp" />
     <ClCompile Include="..\PJ_Testing\exceptions2.cpp" />
+    <ClCompile Include="..\PJ_Testing\str_swap.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
