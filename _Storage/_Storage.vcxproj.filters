@@ -27,5 +27,8 @@
     <ClCompile Include="..\PJ_Testing\str_swap.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="..\PJ_Testing\move_semantic.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
