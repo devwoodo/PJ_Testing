@@ -19,7 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="shr_ptr.cpp" />
+    <ClCompile Include="shr-ptr-container.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{C18E8B3E-45BA-4C16-9E60-C66438464BE0}</ProjectGuid>
