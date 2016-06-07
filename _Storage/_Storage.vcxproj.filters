@@ -42,5 +42,8 @@
     <ClCompile Include="..\PJ_Testing\shr-ptr-container.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="..\PJ_Testing\md-vec.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

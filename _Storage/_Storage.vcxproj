@@ -149,6 +149,7 @@
     <ClCompile Include="..\PJ_Testing\byteStream_stream_conv.cpp" />
     <ClCompile Include="..\PJ_Testing\exceptions1.cpp" />
     <ClCompile Include="..\PJ_Testing\exceptions2.cpp" />
+    <ClCompile Include="..\PJ_Testing\md-vec.cpp" />
     <ClCompile Include="..\PJ_Testing\move_semantic.cpp" />
     <ClCompile Include="..\PJ_Testing\random.cpp" />
     <ClCompile Include="..\PJ_Testing\shr-ptr-container.cpp" />
