@@ -152,6 +152,7 @@
     <ClCompile Include="..\PJ_Testing\md-vec.cpp" />
     <ClCompile Include="..\PJ_Testing\move_semantic.cpp" />
     <ClCompile Include="..\PJ_Testing\random.cpp" />
+    <ClCompile Include="..\PJ_Testing\rvo.cpp" />
     <ClCompile Include="..\PJ_Testing\shr-ptr-container.cpp" />
     <ClCompile Include="..\PJ_Testing\shr_ptr.cpp" />
     <ClCompile Include="..\PJ_Testing\str_swap.cpp" />
