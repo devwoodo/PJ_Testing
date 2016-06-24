@@ -48,5 +48,11 @@
     <ClCompile Include="..\PJ_Testing\rvo.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="..\PJ_Testing\dy_cast.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="..\PJ_Testing\seekgVStellg.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

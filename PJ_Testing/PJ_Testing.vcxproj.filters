@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="dy_cast.cpp">
+    <ClCompile Include="staticMemberItself.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

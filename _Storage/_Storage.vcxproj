@@ -147,12 +147,14 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="..\PJ_Testing\byteStream_stream_conv.cpp" />
+    <ClCompile Include="..\PJ_Testing\dy_cast.cpp" />
     <ClCompile Include="..\PJ_Testing\exceptions1.cpp" />
     <ClCompile Include="..\PJ_Testing\exceptions2.cpp" />
     <ClCompile Include="..\PJ_Testing\md-vec.cpp" />
     <ClCompile Include="..\PJ_Testing\move_semantic.cpp" />
     <ClCompile Include="..\PJ_Testing\random.cpp" />
     <ClCompile Include="..\PJ_Testing\rvo.cpp" />
+    <ClCompile Include="..\PJ_Testing\seekgVStellg.cpp" />
     <ClCompile Include="..\PJ_Testing\shr-ptr-container.cpp" />
     <ClCompile Include="..\PJ_Testing\shr_ptr.cpp" />
     <ClCompile Include="..\PJ_Testing\str_swap.cpp" />
