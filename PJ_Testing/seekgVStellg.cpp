@@ -7,13 +7,13 @@ using std::cout;
 using std::endl;
 
 // std::stringstream::get(char)의 char를 출력하는 wrapping 함수
-char getMyChar(std::stringstream& ss); 
+char getMyChar(std::stringstream& ss);
 
 /*********************************************************************
- * structure of stream buffer
-	position:		0123456789		// position count는 0부터 시작.
-	buffer 내용:	asdfqwerzx
- *********************************************************************/
+* structure of stream buffer
+position:     0123456789  //  position count는 0부터 시작.
+buffer 내용:  asdfqwerzx
+*********************************************************************/
 
 int main()
 {
@@ -34,18 +34,18 @@ int main()
 	cout << "tellp(): " << ss1.tellp() << endl;	// output: 10
 
 
-	// seekg() VS seekp()
+												// seekg() VS seekp()
 	cout << endl << "// seekg() VS seekp()" << endl;
 	std::stringstream ss2;
 	ss2 << "asdfqwerzx";
-	cout << "ss2: " << ss2.str() << endl;	// output: d
+	cout << "ss2: " << ss2.str() << endl;	// output: asdfqwerzx
 	ss2.seekg(2);
-	cout << "after seekg(2): " << getMyChar(ss2) << endl;
+	cout << "after seekg(2): " << getMyChar(ss2) << endl;	// output: d
 
 	ss2.seekp(0, std::ios_base::beg);	// 주어진 dir 값을 ss2.beg 도 가능
 	ss2 << '*';
 	cout << "after seekp(0, io_base::beg): " << ss2.str() << endl;	// output: *sdfqwerzx
-	
+
 	ss2.seekp(0, ss2.end);
 	ss2 << '*';
 	cout << "after seekp(0, ss2.end): " << ss2.str() << endl;	// output: *sdfqwerzx*

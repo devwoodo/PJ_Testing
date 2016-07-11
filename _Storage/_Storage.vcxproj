@@ -154,11 +154,23 @@
     <ClCompile Include="..\PJ_Testing\move_semantic.cpp" />
     <ClCompile Include="..\PJ_Testing\random.cpp" />
     <ClCompile Include="..\PJ_Testing\rvo.cpp" />
+    <ClCompile Include="..\PJ_Testing\RVObyRef.cpp" />
     <ClCompile Include="..\PJ_Testing\seekgVStellg.cpp" />
     <ClCompile Include="..\PJ_Testing\shr-ptr-container.cpp" />
+    <ClCompile Include="..\PJ_Testing\shr-ref.cpp" />
     <ClCompile Include="..\PJ_Testing\shr_ptr.cpp" />
+    <ClCompile Include="..\PJ_Testing\singleton.cpp" />
+    <ClCompile Include="..\PJ_Testing\singleton2_header.cpp" />
+    <ClCompile Include="..\PJ_Testing\singleton2_main.cpp" />
+    <ClCompile Include="..\PJ_Testing\staticMemberItself.cpp" />
+    <ClCompile Include="..\PJ_Testing\staticVar-test-main.cpp" />
+    <ClCompile Include="..\PJ_Testing\staticVar-test.cpp" />
     <ClCompile Include="..\PJ_Testing\str_swap.cpp" />
     <ClCompile Include="..\PJ_Testing\unordered_map.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\PJ_Testing\singleton2_header.h" />
+    <ClInclude Include="..\PJ_Testing\staticVar-test.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
