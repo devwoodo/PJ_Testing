@@ -152,6 +152,7 @@
     <ClCompile Include="..\PJ_Testing\exceptions2.cpp" />
     <ClCompile Include="..\PJ_Testing\md-vec.cpp" />
     <ClCompile Include="..\PJ_Testing\move_semantic.cpp" />
+    <ClCompile Include="..\PJ_Testing\objStorage.cpp" />
     <ClCompile Include="..\PJ_Testing\random.cpp" />
     <ClCompile Include="..\PJ_Testing\rvo.cpp" />
     <ClCompile Include="..\PJ_Testing\RVObyRef.cpp" />

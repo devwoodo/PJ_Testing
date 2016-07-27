@@ -78,6 +78,9 @@
     <ClCompile Include="..\PJ_Testing\shr_ptr.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="..\PJ_Testing\objStorage.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\PJ_Testing\staticVar-test.h">
