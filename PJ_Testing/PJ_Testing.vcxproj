@@ -19,7 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="sstream-getline.cpp" />
+    <ClCompile Include="wchar-char-string-test.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{C18E8B3E-45BA-4C16-9E60-C66438464BE0}</ProjectGuid>

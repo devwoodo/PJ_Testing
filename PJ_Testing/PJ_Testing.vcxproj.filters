@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="sstream-getline.cpp">
+    <ClCompile Include="wchar-char-string-test.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
