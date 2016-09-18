@@ -163,13 +163,11 @@
     <ClCompile Include="..\PJ_Testing\singleton.cpp" />
     <ClCompile Include="..\PJ_Testing\singleton2_header.cpp" />
     <ClCompile Include="..\PJ_Testing\singleton2_main.cpp" />
-    <ClCompile Include="..\PJ_Testing\sstream-getline.cpp" />
     <ClCompile Include="..\PJ_Testing\staticMemberItself.cpp" />
     <ClCompile Include="..\PJ_Testing\staticVar-test-main.cpp" />
     <ClCompile Include="..\PJ_Testing\staticVar-test.cpp" />
     <ClCompile Include="..\PJ_Testing\str_swap.cpp" />
     <ClCompile Include="..\PJ_Testing\unordered_map.cpp" />
-    <ClCompile Include="..\PJ_Testing\virtual-return.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\PJ_Testing\singleton2_header.h" />
