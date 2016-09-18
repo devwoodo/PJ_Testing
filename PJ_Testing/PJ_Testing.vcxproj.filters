@@ -18,5 +18,8 @@
     <ClCompile Include="wchar-char-string-test.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="sstream-int-getline.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
