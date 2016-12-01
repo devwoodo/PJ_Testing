@@ -51,9 +51,6 @@
     <ClCompile Include="..\PJ_Testing\staticMemberItself.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="..\PJ_Testing\seekgVStellg.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="..\PJ_Testing\staticVar-test.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
@@ -79,6 +76,12 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="..\PJ_Testing\objStorage.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="..\PJ_Testing\shr-ptr-with-nullptr.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="..\PJ_Testing\seekgVStellg.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

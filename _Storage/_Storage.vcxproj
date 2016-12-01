@@ -158,6 +158,7 @@
     <ClCompile Include="..\PJ_Testing\RVObyRef.cpp" />
     <ClCompile Include="..\PJ_Testing\seekgVStellg.cpp" />
     <ClCompile Include="..\PJ_Testing\shr-ptr-container.cpp" />
+    <ClCompile Include="..\PJ_Testing\shr-ptr-with-nullptr.cpp" />
     <ClCompile Include="..\PJ_Testing\shr-ref.cpp" />
     <ClCompile Include="..\PJ_Testing\shr_ptr.cpp" />
     <ClCompile Include="..\PJ_Testing\singleton.cpp" />
